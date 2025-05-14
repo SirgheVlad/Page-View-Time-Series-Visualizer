@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-line_plot.png
-bar_plot.png
-box_plot.png
-.vscode/
-.gitpod
-.gitpod.yml
-requirements.txt
